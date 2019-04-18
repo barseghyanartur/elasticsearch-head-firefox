@@ -1,0 +1,164 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: BRUkwQ4kRpidv6GFUh6ORA==
+SHA1-Digest: lmP80dfElDeo0d8oa1tN2jKvHf8=
+SHA256-Digest: cZqXqvUEgJ9gGwcNmDKgInNoTNOpwbN9m/ygnOw5pB8=
+
+Name: Readme.md
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: g0mb/Rm8QkZ78SqyBiM/cQ==
+SHA1-Digest: o8+KOFwv+5zl+Z23RzuiBfJGJfI=
+SHA256-Digest: P0cwhNqsJYZ4g3XquShNKysANFzmf/V+brcao5Je88s=
+
+Name: elasticsearch-head/app.css
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: lqqYVEFiuPRSfNmbrsM9AA==
+SHA1-Digest: 5fSEupa+ByBzJvc/RzW1VTkGHTo=
+SHA256-Digest: s4/rh7Bre6XblMT32D4k1e735XjvG/KmDG1Glsj/frI=
+
+Name: elasticsearch-head/app.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: /CTNqUe9MbnfmuxfBKOAWg==
+SHA1-Digest: xsvEfz2DDcuraTqi5cJVXQUOPXI=
+SHA256-Digest: np595IxJ5fYPcwX2Z2QFjFxOa8vHiWHqsAj+c7+zwh0=
+
+Name: elasticsearch-head/i18n.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 9g2PLG1U1XKM+wr5J8tJyA==
+SHA1-Digest: 6QQBa0V0WkDiY+abDd7swXds2y4=
+SHA256-Digest: CYvaoTITA3M+CaypdCraY/4tUV7a5ecLjrN6pzK7oSU=
+
+Name: elasticsearch-head/index.html
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 2AGVNW6zzErRy/oN2uKCeQ==
+SHA1-Digest: EhpmGGN4m87VX/AEt/xvQ8sjbL8=
+SHA256-Digest: wDWX+5DyLbDnQBImpe18HJd+l+5TwnQlVZDK1L8poKk=
+
+Name: elasticsearch-head/vendor.css
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: /bzb40Ep2gaGz35CDGtx2Q==
+SHA1-Digest: yxHgyCFaY5+75LOBs3oxPCWJaPs=
+SHA256-Digest: ieJORgbwGKd8m2/F+rTm3W/ugcRiBhX7vu07/bxyxWU=
+
+Name: elasticsearch-head/vendor.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 2gTPH0Y7N7B6sDA28XKXbA==
+SHA1-Digest: G36soja+G91lmnYU+gsJ2o2CdaI=
+SHA256-Digest: iKF68wxq4JApr5iChwOk1jiYHpa5jKyvtH5R4b4aSW8=
+
+Name: elasticsearch-head/base/favicon.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 2LICK9hvZsUjzipLg/xDVQ==
+SHA1-Digest: ViervEKh7MAvDLtuzU1Jzi+0DP8=
+SHA256-Digest: Yvi2OoMu1FMcMm6qh2Pa6J+EtLBVJugLCiYKUWkvub0=
+
+Name: elasticsearch-head/base/loading.gif
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: hVIThrzrsFqv09My5+wMug==
+SHA1-Digest: dHoE+c949NuFKQ/GSMb1xvLM83Q=
+SHA256-Digest: yRJtsu6eeuCDQyNOhy0yqY1ck1/tdBO31O2HWF7BAOA=
+
+Name: elasticsearch-head/base/reset.css
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: sX2QoBcAKZc6zdk+iaTq4w==
+SHA1-Digest: 1s8VSdud5tGntvgqMYZedsPcpbk=
+SHA256-Digest: w3zgSRFI0HEl0VOzATFL8gKaiyU/PlBtt6Wel9kb+VE=
+
+Name: elasticsearch-head/fonts/fontawesome-webfont.eot
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: iye8lhFcLSQ1Dw0J5qlDPw==
+SHA1-Digest: dhl0j+NMZPsVelf21O82ePY6j14=
+SHA256-Digest: OeI3wHQD5i8AvW3fC1nTNJx704aSUKqtw4lBnbaqQO8=
+
+Name: elasticsearch-head/fonts/fontawesome-webfont.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: CnmRSKULsCxvOA6r2Nl1WQ==
+SHA1-Digest: RvzAGU11oN2sCgOK7kGyNFZ4SBQ=
+SHA256-Digest: t1H4G0sNt3xJpz/oBnwK7R8eRusS82fuU/5t+LkENwM=
+
+Name: elasticsearch-head/fonts/fontawesome-webfont.ttf
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 3LJscjnYUCZpQegDcOIHwQ==
+SHA1-Digest: fwnJfzM5FwNK0I+nKV6RbJ9y/T8=
+SHA256-Digest: a0k0itU4htCc5MMvoUbomcgg3j+FqN03BKBiTrO/f6E=
+
+Name: elasticsearch-head/fonts/fontawesome-webfont.woff
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: MpNhbsDGBcfC2yWCmgpQng==
+SHA1-Digest: BMO/Vth6CCiTW9a0ruhZmV8yFpM=
+SHA256-Digest: D9KP7Onr1ga4sHFGDr0/wu17x6Zu+RyINPEd+sq0qEk=
+
+Name: elasticsearch-head/fonts/FontAwesome.otf
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: PzpiPojLXGLqojZxlemLZw==
+SHA1-Digest: tbT5voX5HxB5noegg9odBQ+EJzQ=
+SHA256-Digest: bF6pFbVoXc2GXSGLQSIFD+dYcsfskXYsEbaRPukHTrU=
+
+Name: elasticsearch-head/lang/en_strings.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: iycDo6sPgpqC2oU46eRABA==
+SHA1-Digest: FQ8nYffoxooCTf4rnZKIb20xlk8=
+SHA256-Digest: yQO4AcPgUdHcf3myfVLJ9n09XfM2TVxtW2iGTfma8Ok=
+
+Name: elasticsearch-head/lang/fr_strings.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: hDTraf4dBf1ypcdFaJir4w==
+SHA1-Digest: dOU0TcXA9sV4wbSZCM79/6d6FK8=
+SHA256-Digest: s9rhJDLyqw1SeYIF1yfgbuOlTkQldJh6jMB1reLlrj4=
+
+Name: elasticsearch-head/lang/ja_strings.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: XdpxpE7g5+TRXfFeCY5zzg==
+SHA1-Digest: 8cxlKZ7jVhILi8SUB45BNyOieTk=
+SHA256-Digest: upDXNLf9JcLgl5/LSU4UKF7du0bsw2F01uB9Q1tc3cU=
+
+Name: elasticsearch-head/lang/pt_strings.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 4QjPp1W+MC1ubsfuGG5idA==
+SHA1-Digest: VseiTjsuU7sJNk0c9Ab39gl74/0=
+SHA256-Digest: 3aB6g7HPOBZIC5dIM6q18foG9koFikMmFH00qkPkL2E=
+
+Name: elasticsearch-head/lang/tr_strings.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: S+YWiXOFmAExUY/KBHWHpA==
+SHA1-Digest: LB7b2KSpH0nq66nhB8zD1wcKJVI=
+SHA256-Digest: XA85BFN5jJALFvN/upmPMOBIQ3V4ZGrEXzMJdJZobag=
+
+Name: elasticsearch-head/lang/zh_strings.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: +cztppihLOtZ4i0kUqCB7g==
+SHA1-Digest: S/yWj7uNZJJqtlpmzZcJwsqX7xA=
+SHA256-Digest: ItLdUvmr528sLWeay7Zy8WK0rD4VQUjbHxsv2NvKLvY=
+
+Name: icons/logo_128.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: KFkNjvDrU9b0Ujc4wpa6kQ==
+SHA1-Digest: dVZXhst6gvZ5kGpJ3cEBain8GSo=
+SHA256-Digest: NicUlO3CSIhQ61JgP3DbYFtXlUAL9VBOobqIjWc6TEE=
+
+Name: icons/logo_16.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 2LICK9hvZsUjzipLg/xDVQ==
+SHA1-Digest: ViervEKh7MAvDLtuzU1Jzi+0DP8=
+SHA256-Digest: Yvi2OoMu1FMcMm6qh2Pa6J+EtLBVJugLCiYKUWkvub0=
+
+Name: icons/logo_32.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: K4nuEOowm49H36BEESBDZQ==
+SHA1-Digest: VWrpvzxZgSp7tnmN0CJme6uwJDo=
+SHA256-Digest: SE9h4dhVpQRt+1FpoHsuoHD/q8ioX7TZCFUPr3PsNm8=
+
+Name: icons/logo_48.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: sYhkl+aeF9jf2pqk8Fp4XQ==
+SHA1-Digest: YiOISe7yjuuyB2hFkUASLPQMjDg=
+SHA256-Digest: qhpswiRg2H+ba6g3U2W+I9GLH062k/Kp+1bkd7iI3gc=
+
+Name: src/background.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 5zwRV2S+mgs4BIJODQ7ALg==
+SHA1-Digest: QuiDvRZ4+d68qj3Hnc11uz08cO4=
+SHA256-Digest: Adb04p5vv9l84wk8+9df+KtubT4n+mn5uHiQpvig8Ck=
+
