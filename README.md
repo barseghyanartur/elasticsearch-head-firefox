@@ -1,11 +1,12 @@
-# ElasticSearch Head plugin for Firefox
-Adapted by paulstadnikov, but unfortunately removed from Firefox plugins site.
+# ElasticSearch Head add-on for Firefox
+Adapted by paulstadnikov, but unfortunately removed from Firefox add-ons site.
 
 Check the `dist` directory for installable extension.
 
 ## Synopsis
 
-Chrome Extension containing the excellent [ElasticSearch Head](https://github.com/mobz/elasticsearch-head) application.
+Chrome Extension containing the excellent 
+[ElasticSearch Head](https://github.com/mobz/elasticsearch-head) application.
 
 ## Motivation
 
@@ -16,7 +17,8 @@ CORS without configuring CORS on your Elastic server.
 
 ## Installation
 
-Head over to [ElasticSearch Head](https://chrome.google.com/webstore/detail/elasticsearch-head/ffmkiejjmecolpfloofpjologoblkegm) 
+Head over to 
+[ElasticSearch Head](https://chrome.google.com/webstore/detail/elasticsearch-head/ffmkiejjmecolpfloofpjologoblkegm) 
 page on the Chrome Web Store.
 
 ## Usage
